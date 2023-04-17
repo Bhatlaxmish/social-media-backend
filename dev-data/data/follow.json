@@ -1,0 +1,167 @@
+[
+  {
+    "user": "642bc8ddfe2471cabbb1f503",
+    "followers": [
+      "642bc8ddfe2471cabbb1f503",
+      "642cffd65a442a45263c6128",
+      "642d072857de4d6172f6a904"
+    ],
+    "following": [
+      "642d072857de4d6172f6a904",
+      "642d076257de4d6172f6a906", 
+      "642d079657de4d6172f6a908"
+    ]
+  },
+  
+    {
+      "user": "614d8d5f05c5294c4a4a29e4",
+      "followers": [
+        "614d8e0b05c5294c4a4a29e6",
+        "614d8e2f05c5294c4a4a29e7",
+        "614d8e4e05c5294c4a4a29e8"
+      ],
+      "following": [
+        "614d8e6705c5294c4a4a29e9",
+        "614d8e8705c5294c4a4a29ea",
+        "614d8ea605c5294c4a4a29eb"
+      ]
+    },
+  
+  {
+    "user": "642cffd65a442a45263c6128",
+    "followers": [
+      "642cffd65a442a45263c6128",
+      "642d072857de4d6172f6a904",
+      "642d076257de4d6172f6a906"
+    ],
+    "following": [
+      "642d076257de4d6172f6a906",
+      "642d079657de4d6172f6a908",
+      "642d07ae57de4d6172f6a90a"
+    ]
+  },
+  {
+    "user": "642d072857de4d6172f6a904",
+    "followers": [
+      "642d072857de4d6172f6a904",
+      "642d076257de4d6172f6a906",
+      "642d079657de4d6172f6a908"
+    ],
+    "following": [
+      "642d079657de4d6172f6a908",
+      "642d07ae57de4d6172f6a90a",
+      "642d07c457de4d6172f6a90c"
+    ]
+  },
+  {
+    "user": "642d076257de4d6172f6a906",
+    "followers": [
+      "642d076257de4d6172f6a906",
+      "642d079657de4d6172f6a908",
+      "642d07ae57de4d6172f6a90a"
+    ],
+    "following": [
+      "642d07ae57de4d6172f6a90a",
+      "642d07c457de4d6172f6a90c",
+      "642d07d957de4d6172f6a90e"
+    ]
+  },
+  {
+    "user": "642d079657de4d6172f6a908",
+    "followers": [
+      "642d079657de4d6172f6a908",
+      "642d07ae57de4d6172f6a90a",
+      "642d07c457de4d6172f6a90c"
+    ],
+    "following": [
+      "642d07c457de4d6172f6a90c",
+      "642d07d957de4d6172f6a90e",
+      "642d07f357de4d6172f6a910"
+    ]
+  },
+  {
+    "user": "642d07ae57de4d6172f6a90a",
+    "followers": [
+      "642d07ae57de4d6172f6a90a",
+      "642d07c457de4d6172f6a90c",
+      "642d07d957de4d6172f6a90e"
+    ],
+    "following": [
+      "642d07d957de4d6172f6a90e",
+      "642d07f357de4d6172f6a910",
+      "642d080857de4d6172f6a912"
+    ]
+  },
+  {
+    "user": "642d07c457de4d6172f6a90c",
+    "followers": [
+      "642d07c457de4d6172f6a90c",
+      "642d07d957de4d6172f6a90e",
+      "642d07f357de4d6172f6a910"
+    ],
+    "following": [
+      "642d07f357de4d6172f6a910",
+      "642d080857de4d6172f6a912",
+      "642d081b57de4d6172f6a914"
+    ]
+  },
+  {
+    "user": "642d07d957de4d6172f6a90e",
+    "followers": [
+      "642d07d957de4d6172f6a90e",
+      "642d07f357de4d6172f6a910",
+      "642d080857de4d6172f6a912"
+    ],
+    "following": [
+      "642d080857de4d6172f6a912",
+      "642d081b57de4d6172f6a914",
+      "642d082f57de4d6172f6a916"
+    ]
+  },
+  {
+    "user": "642d07f357de4d6172f6a910",
+    "followers": [
+      "642d07f357de4d6172f6a910",
+      "642d080857de4d6172f6a912",
+      "642d081b57de4d6172f6a914"
+    ],
+    "following": [
+      "642d081b57de4d6172f6a914",
+      "642d082f57de4d6172f6a916",
+      "642d084e57de4d6172f6a918"
+    ]
+  },
+  {
+    "user": "642d080857de4d6172f6a912",
+    "followers": [
+      "642d080857de4d6172f6a912",
+      "642d081b57de4d6172f6a914",
+      "642d082f57de4d6172f6a916"
+    ],
+    "following": [
+      "642d082f57de4d6172f6a916",
+      "642d084e57de4d6172f6a918",
+      "642d085f57de4d6172f6a91a"
+    ]
+  },
+  {
+    "user": "642d081b57de4d6172f6a914",
+    "followers": [
+      "642d081b57de4d6172f6a914",
+      "642d082f57de4d6172f6a916"
+    ],
+    "following": [
+      "642d084e57de4d6172f6a918",
+      "642d085f57de4d6172f6a91a"
+    ]
+  },
+  {
+    "user": "642d082f57de4d6172f6a916",
+    "followers": [
+      "642d082f57de4d6172f6a916"
+    ],
+    "following": [
+      "642d085f57de4d6172f6a91a"
+    ]
+  }
+]
